@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+    color: #205295;
+}
+
+hr{
+    border: 2px;
+    border-color: #d0d0d1;
+    border-style: dotted none none none;
+    width: 100px;
+    margin: 0px auto;
+    border-width: 8px;
+    text-shadow: none;
+}
+
+body{
+    background-color: #FFF2F2;
+    font-family: 'Merriweather', serif;
+}
+
+footer{
+    background-color: #205295;
+}
+
+.top-container{
+    background-image: linear-gradient(#2C74B3 , #205295);
+}
+
+.heading{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.background-img-container{
+    text-align: center;
+}
+
+.background-img{
+    width: 800px;
+}
+
+.middle-section{
+    padding-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.profile{
+    text-align: center;
+}
+
+.jett-profile{
+    width: 150px;
+    height: 150px;
+}
+
+.profile-bio{
+    width: 460px;
+    line-height: 1.6;
+    font-weight: 300;
+    margin: 30px auto 0px;
+    color: #545454;
+}
+
+.bottom-section{
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+}
+
+.bottom-section-heading{
+    margin-bottom: 100px;
+}
+
+.developer{
+    text-align: center;
+}
+
+.develop-img{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 30px;
+}
+
+.dev-bio{
+    float: right;
+    width: 100%;
+    margin: 30px 0px;
+    color: #545454;
+}
